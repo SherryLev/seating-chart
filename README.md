@@ -26,3 +26,7 @@ The first version is browser-only: it does not use accounts, a hosted database, 
 npm run build
 npm run lint
 ```
+
+
+<img width="1437" height="780" alt="Screenshot 2026-10-19 at 8 13 43 PM" src="https://github.com/user-attachments/assets/22beb779-e446-4afa-877b-d5c3645e8286" />
+
